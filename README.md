@@ -5,7 +5,7 @@ I'm a student from Iran who's passionate about technology. I spend most of my ti
 ## Skills & Tools
 - **Languages:** C/C++, Python, Java  
 - **Currently Learning:** Game Development  
-- **Editor of Choice:** Vim enthusiast
+- **Editor of Choice:** Vim enthusiast - yes, efficiency matters.
 
 ## About Me
 I love diving into the worlds of **games**, **movies**, and **rock music**. Whether it's coding a new idea, watching a mind-blowing film, or vibing with heavy riffs, that's my zone.
