@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @acks0ul
-- 👀 I’m interested in Movies and Rock Music
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me acksoul9@gmail.com
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: Corey Taylor Is The Best.
+# Hi there, I'm @acks0ul
 
-<!---
-acks0ul/acks0ul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student from Iran who's passionate about technology. I spend most of my time learning, building, and exploring anything that sparks my curiosity — especially when it comes to code and creativity.
+
+## Skills & Tools
+- **Languages:** C/C++, Python, Java  
+- **Currently Learning:** Game Development  
+- **Editor of Choice:** Vim enthusiast
+
+## About Me
+I love diving into the worlds of **games**, **movies**, and **rock music**. Whether it's coding a new idea, watching a mind-blowing film, or vibing with heavy riffs, that's my zone.
+
+## Fun Fact
+BTW, I use Arch.
+
+## Contact
+Feel free to reach out: **acksoul9@gmail.com**
+
